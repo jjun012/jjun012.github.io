@@ -1,29 +1,39 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-04-14 18:35:41 +0900
-categories: jekyll update
+title: "블로그 시작했어요! ₊˚ʚ ᗢ₊˚✧"
+date: 2026-04-14 18:35:41 +0900
+categories: [일상, 인사]
+tags: [치이카와, 일상, 블로그시작]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+안녕하세요! ちいかわ 입니다 🌸
 
-`YEAR-MONTH-DAY-title.MARKUP`
+오늘부터 블로그를 시작하기로 했어요!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+하치와레가 「일기 써봐! 나중에 다시 읽으면 재밌어!」라고 했거든요. そっか...그럼 써볼게요...!
 
-Jekyll also offers powerful support for code snippets:
+---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## 왜 블로그를 시작했냐면요
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+사실 처음엔 무서웠어요. 글을 쓰는 게... 잘 할 수 있을까... 하고요.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+근데 생각해보면 풀베기 시험도 무서웠지만 도전했잖아요! (그리고 합격했어요 ☆)
+
+「やってみよう！」정신으로 시작해보기로 했어요!
+
+---
+
+## 앞으로 쓸 내용들 🌼
+
+- 🌿 풀베기 일상
+- 🍓 맛있는 거 먹은 이야기
+- 🐱 하치와레랑 있었던 일
+- 🌰 쿠리만쥬 관찰 일기
+- ✨ 소소한 행복 모음
+
+---
+
+앞으로 잘 부탁드려요!
+
+「なんか...たのしいな...」🌸
