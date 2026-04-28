@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ちいかわ日記 # the main title
+title: 여준의 기록 # the main title
 
-tagline: なんか小さくてかわいいやつのブログ ₊˚ʚ ᗢ₊˚✧ # it will display as the subtitle
+tagline: 공부하고 성장하는 일상을 기록합니다 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  ちいかわ、はちわれ、うさぎの毎日の日記です。草刈り試験、くりまんじゅう、おいしいごはん...小さくてかわいい日常をお届けします！
+  프로그래머스 데브코스 백엔드 과정을 수강하며 배운 것들과 일상을 기록하는 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -32,14 +32,12 @@ twitter:
   username: twitter_username # change to your Twitter username
 
 social:
-  name: ちいかわ
-  email: cindy205780@gmail.com
+  name: 여준
+  email: duwns2057@naver.com
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     - https://github.com/jjun012
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/jjun_071
 
 # Site Verification Settings
 webmaster_verifications:
@@ -95,7 +93,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.gif
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
